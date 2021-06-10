@@ -1,0 +1,33 @@
+kei car
+Microcar
+A-segment
+Minicompact
+B-segment
+Supermini
+Subcompact
+C-segment
+Small family
+Compact
+D-segment
+Large family
+Mid-size
+E-segment
+Executive
+Full-size
+Minivans
+MPVs
+Mini MPV
+Large MPV
+Premium compact
+Compact executive
+luxury compact
+Executive
+mid-size luxury
+Luxury saloon
+full-size luxury
+Sports
+Sports sedan
+sports saloon
+Sport utility vehicl
+Off-road vehicle
+Crossover SUV
